@@ -1,0 +1,7 @@
+C:\Users\AndresCabezas\source\repos\XmlProyecto\XmlProyecto\obj\Debug\XmlProyecto.csproj.CoreCompileInputs.cache
+C:\Users\AndresCabezas\source\repos\XmlProyecto\XmlProyecto\bin\Debug\XmlProyecto.exe.config
+C:\Users\AndresCabezas\source\repos\XmlProyecto\XmlProyecto\bin\Debug\XmlProyecto.exe
+C:\Users\AndresCabezas\source\repos\XmlProyecto\XmlProyecto\bin\Debug\XmlProyecto.pdb
+C:\Users\AndresCabezas\source\repos\XmlProyecto\XmlProyecto\obj\Debug\XmlProyecto.exe
+C:\Users\AndresCabezas\source\repos\XmlProyecto\XmlProyecto\obj\Debug\XmlProyecto.pdb
+C:\Users\AndresCabezas\source\repos\XmlProyecto\XmlProyecto\obj\Debug\XmlProyecto.csproj.AssemblyReference.cache
